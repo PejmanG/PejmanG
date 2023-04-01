@@ -1,5 +1,3 @@
 ## Hi there!
 
-I'm Pezhman Ghavami, a Full-Stack Developer specializing in Web Applications and the reactive web with more than four years of experience shipping awesome products.
-
-Obsessed with application performance, user experience and simplicity.
+I'm Pezhman Ghavami, a Front-End Developer specializing in Web Applications and the reactive web with more than five years of experience shipping awesome products.
